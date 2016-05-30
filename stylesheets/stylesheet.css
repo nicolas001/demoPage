@@ -18,9 +18,9 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.08);
+  border-color: rgba(0, 0, 0, 0.2);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -73,8 +73,9 @@ a {
     padding: 2rem 1rem; } }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem; }
+  margin-top: 1;
+  margin-bottom: 0.1rem;
+   color: black;}
 
 @media screen and (min-width: 64em) {
   .project-name {
