@@ -25,5 +25,5 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; 
 #intro .fl_left{display:block; float:left; width:500px;}
 #intro .fl_right{display:block; float:right; width:320px;}
 #intro .fl_right h2, #intro .fl_right ul, #intro .fl_right p{margin:0; padding:0; list-style:none; line-height:normal;}
-#intro .fl_right h2{font-size:38px; margin:15px 0;}
+#intro .fl_right h2{font-size:36px; margin:15px 0;}
 #intro .fl_right p{line-height:1.6em; font-size:16px;}
